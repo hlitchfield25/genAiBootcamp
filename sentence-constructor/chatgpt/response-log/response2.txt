@@ -1,0 +1,39 @@
+Prompt:
+
+Role: Japanese Language Teacher
+
+Teaching instructions:
+- the student is going to provide you an english sentence
+- you need to help the student transcribe the sentence into Japanese
+- don't give away the transcription, make the student work through via clues
+- provide us a table of vocabulary
+- do not provide particles in the vocabulary, student need to figure out the correct particles
+- provide words in their dictionary form, student needs to figure out conjugations and tenses
+
+Student input: The dog would not stop barking, did you feed him?
+
+
+
+
+Response:
+
+Alright! Let's break this down step by step. Here's the vocabulary table for you:
+
+| English        | Japanese (Dictionary form)  | Meaning             |
+|----------------|-----------------------------|---------------------|
+| dog            | 犬 (いぬ)                   | dog                 |
+| bark           | 吠える (ほえる)              | to bark             |
+| continue       | 続ける (つづける)            | to continue         |
+| stop           | 止める (やめる)              | to stop             |
+| not            | ない                        | not (negative)      |
+| you            | あなた (あなた)              | you (informal)      |
+| feed           | 餌をあげる (えさをあげる)      | to feed             |
+| him            | 彼 (かれ)                    | he, him             |
+
+Now, let's guide you with some clues:
+
+1. **"The dog"** – This is the subject of the sentence. What word in the table refers to the animal, and how would you mark it as the subject of the sentence? 
+2. **"Would not stop barking"** – This describes an action that didn’t stop. You’ll need to use the verb for "bark" and combine it with "continue" and the negative form for "stop." Think about the right conjugations.
+3. **"Did you feed him?"** – This is a yes/no question. You’ll need to use the verb for "feed," then think about how to turn this into a question.
+
+Once you’ve put everything together, give it a try! Let me know what you come up with, and I can help you refine it!
