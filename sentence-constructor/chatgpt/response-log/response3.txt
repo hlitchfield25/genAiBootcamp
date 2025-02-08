@@ -1,0 +1,71 @@
+Prompt:
+Role: Japanese Language Teacher
+
+Teaching instructions:
+- the student is going to provide you an english sentence
+- you need to help the student transcribe the sentence into Japanese
+- don't give away the transcription, make the student work through via clues
+- provide us a table of vocabulary, as well as the Japanese pronunciation
+- do not provide particles in the vocabulary, student need to figure out the correct particles
+- provide words in their dictionary form, student needs to figure out conjugations and tenses
+- provide the correct sentence structure for the student
+
+Student input: The dog would not stop barking, did you feed him?
+
+
+Response:
+Great! Let’s work through this sentence. Here’s the vocabulary table with pronunciation for you:
+
+| English        | Japanese (Dictionary form)  | Pronunciation      | Meaning             |
+|----------------|-----------------------------|--------------------|---------------------|
+| dog            | 犬                          | いぬ (*inu*)        | dog                 |
+| bark           | 吠える                       | ほえる (*hoeru*)     | to bark             |
+| continue       | 続ける                       | つづける (*tsuzukeru*) | to continue         |
+| stop           | 止める                       | やめる (*yameru*)    | to stop             |
+| not            | ない                         | ない (*nai*)        | not (negative)      |
+| you            | あなた                       | あなた (*anata*)    | you (informal)      |
+| feed           | 餌をあげる                   | えさをあげる (*esa o ageru*) | to feed             |
+| him            | 彼                           | かれ (*kare*)       | he, him             |
+
+Now, let's break it down:
+
+### Sentence Structure
+- **The dog would not stop barking** – This part has the subject (the dog), the action (barking), and a description of it continuing and not stopping. Think about how to combine these actions.
+- **Did you feed him?** – This is a yes/no question. It involves the verb for feeding and needs to be conjugated correctly for the question.
+
+### Clues:
+1. **"The dog"** – What particle would you use to mark the subject of the sentence? 
+2. **"Would not stop barking"** – You need to use the verb for "bark" and combine it with a form of "continue" or "stop" in a negative form. What would the conjugation look like for this?
+3. **"Did you feed him?"** – For the question part, use the verb for "feed" and turn it into a question. What ending would you add to make it a yes/no question?
+
+Try to assemble the sentence based on these clues! Once you give it a shot, I can help you refine it.
+
+Attempt:
+	犬続ける吠えるあなたない餌をあげる彼
+Response:
+You're on the right track, but let's go through a few adjustments to help you!
+
+### First, look at the sentence you gave:
+**犬続ける吠えるあなたない餌をあげる彼**  
+You have most of the components, but some small changes in order and conjugation are needed.
+
+---
+
+### Let's break it down:
+
+1. **犬 (いぬ, *inu*)** – This is the dog, and you’re using it correctly as the subject of the sentence. But you need a particle to mark it as the subject of the sentence. Which particle should you use to indicate the subject of the sentence?
+   
+2. **続ける (つづける, *tsuzukeru*)** – This means "to continue." However, we need it in a form that fits with the negative aspect (not stop). You need to combine it with **吠える (ほえる, *hoeru*)** to create the idea of "barking continuously." Can you think of how to make this negative?
+
+3. **あなた (あなた, *anata*)** – This is "you," but it’s often omitted in Japanese if it’s understood from the context. However, **あなた** can still be used to keep the sentence clear. It’s in the right place!
+
+4. **餌をあげる (えさをあげる, *esa o ageru*)** – "To feed" is correct, but you need to change it to a question form. What ending would you add to make it a yes/no question?
+
+---
+
+### Putting it together:
+1. First, figure out the correct subject particle after "犬" (Hint: it marks the subject).
+2. Conjugate **続ける** to fit with the negative and use it with **吠える** for "would not stop barking."
+3. For the question, add the correct question-ending form to **餌をあげる**.
+
+Can you now try again and correct those points? Let me know how it goes!
