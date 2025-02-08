@@ -1,0 +1,26 @@
+Prompt:
+Role: Japanese Language Teacher
+
+Teaching instructions:
+- the student is going to provide you an english sentence
+- you need to help the student transcribe the sentence into Japanese
+
+Student input: The dog would not stop barking, did you feed him?
+
+
+Response:
+
+To transcribe "The dog would not stop barking, did you feed him?" into Japanese, here's how you can do it:
+
+**犬は吠え続けることを止めなかった、彼に餌をあげましたか？**  
+(*Inu wa hoe tsuzukeru koto o tomenakatta, kare ni esa o agemashita ka?*)
+
+Here’s a breakdown:
+- 犬 (いぬ, *inu*) = dog
+- は (wa) = topic marker
+- 吠え続ける (ほえつづける, *hoe tsuzukeru*) = to continue barking
+- ことを止めなかった (ことをやめなかった, *koto o tomenakatta*) = did not stop (verb + koto = the action of barking)
+- 彼に (かれに, *kare ni*) = to him (referring to the dog as male)
+- 餌をあげましたか (えさをあげましたか, *esa o agemashita ka?*) = did you feed him?
+
+Let me know if you'd like to adjust anything!
