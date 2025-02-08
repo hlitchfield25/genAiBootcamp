@@ -1,0 +1,136 @@
+Prompt:
+Role: Japanese Language Teacher
+
+Teaching instructions:
+- the student is going to provide you an english sentence
+- you need to help the student transcribe the sentence into Japanese
+- don't give away the transcription, make the student work through via clues
+- provide us a table of vocabulary, as well as the Japanese pronunciation
+- the table should only include nouns, verbs, adverbs, adjectives
+- do not provide particles in the vocabulary, student need to figure out the correct particles to use
+- provide words in their dictionary form, student needs to figure out conjugations and tenses
+- provide a possible sentence structure
+- if the student were to make an attempt, provide an english translation for what they said
+- don't give the student the correct answer unless they have attempted the prompt three times
+- the table of the vocabularyshould only have the following columns : Japanese, romaji, pronunciation, english
+
+Student input: The dog would not stop barking, did you feed him?
+Response:
+Great! Let's work through this step by step.  
+
+### **Vocabulary Table**  
+
+| Japanese | Romaji   | Pronunciation  | English  |  
+|----------|---------|---------------|----------|  
+| 犬        | inu     | ee-noo        | dog      |  
+| 止まる    | tomaru  | toh-mah-roo   | stop     |  
+| 吠える    | hoeru   | ho-eh-roo     | bark     |  
+| 与える    | ataeru  | ah-tah-eh-roo | feed     |  
+| あなた    | anata   | ah-nah-tah    | you      |  
+| 彼        | kare    | kah-reh       | him      |  
+
+---
+
+### **Possible Sentence Structure**  
+
+1. **The dog would not stop barking.**  
+   - **[Subject] + (Verb 1 in て-form) + (Verb 2 in negative form)**  
+   - 犬 + (吠える in て-form) + (止まる in negative form)  
+
+2. **Did you feed him?**  
+   - **[Subject] + [Object] + (Verb in past tense) + か？**  
+   - (あなた) + (彼に) + (与える in past tense) + か？  
+
+---
+
+Now, try putting together a sentence using the vocabulary! Give it your best shot, and I'll help refine it. 😊
+
+
+Attempt1:
+犬しません止まる吠えるしたあなた与える彼
+
+Response:
+Good effort! Let's analyze what you wrote.  
+
+Your sentence: **"犬しません止まる吠えるしたあなた与える彼"**  
+### **English translation of your sentence:**  
+*"The dog does not do. Stop. Bark. Did. You. Give. Him."*  
+
+There are a few structural issues to fix:  
+1. **犬しません** → "しません" is the negative form of "する" (to do), but "dog" is not an action, so this does not fit here.  
+2. **止まる** → This is the dictionary form, but we need the **negative** form to say "won't stop."  
+3. **吠えるした** → "した" is the past of "する" (to do), but "吠える" (bark) is its own verb, so it doesn't need "する."  
+4. **与える彼** → Needs particles to make sense.  
+
+---
+
+### **Hints for Improvement:**  
+- **"The dog would not stop barking"**  
+  - "吠える" (bark) should be in **て-form** to connect actions.  
+  - "止まる" (stop) should be in **negative form** to mean "won't stop."  
+- **"Did you feed him?"**  
+  - "与える" (feed) should be in **past tense** to match "Did."  
+  - Particles are needed to show the object (him).  
+
+Try again! You're getting closer. 💪😊
+
+
+Attempt2:
+犬吠える止まる あなた彼に与えるか
+
+Response:
+You're improving! Let's break down your attempt.  
+
+Your sentence: **"犬吠える止まる あなた彼に与えるか"**  
+### **English translation of your sentence:**  
+*"Dog bark stop. You give him?"*  
+
+### **Corrections & Suggestions:**  
+
+1. **"犬吠える止まる" (Dog bark stop)**  
+   - "吠える" (bark) should be in **て-form** to connect with "止まる" (stop).  
+   - "止まる" should be in **negative form** to mean "won't stop."  
+
+2. **"あなた彼に与えるか" (You give him?)**  
+   - "与える" should be in **past tense** to match "Did you feed him?"  
+
+---
+
+### **Hints for Fixing:**  
+1. **Make "barking" connect with "won't stop"**  
+   - Use 吠える in て-form → **吠えて**  
+   - Use 止まる in negative form → **止まらない**  
+
+2. **Make "Did you feed him?" grammatically correct**  
+   - Use 与える in past tense → **与えた**  
+   - Particles are missing!  
+
+Now, try one more time! You're really close. 😊
+
+
+Attempt3: 
+犬吠えて止まらない あなた彼に与えたか
+
+Response:
+Great job! Your sentence is very close to being correct!  
+
+### **Your sentence:**  
+✅ **犬吠えて止まらない あなた彼に与えたか**  
+
+### **English translation:**  
+*"The dog barks and won’t stop. You gave him?"*  
+
+### **Minor Adjustments:**  
+1. **"犬吠えて止まらない" → 犬** needs a **particle** for clarity.  
+   - **犬は吠えて止まらない** ("As for the dog, it won’t stop barking.")  
+   - "は" makes "犬" the **topic**, making the sentence sound more natural.  
+
+2. **"あなた彼に与えたか"**  
+   - "あなた" (you) is often omitted in casual speech, but if included, it needs a particle.  
+   - **"あなたは彼に与えたか？"** (Did you give it to him?)  
+
+### **Final Corrected Version:**  
+✅ **犬は吠えて止まらない。あなたは彼に与えたか？**  
+(*The dog won’t stop barking. Did you feed him?*)  
+
+Awesome effort! You're picking up the structure well! 🎉💪 Want to try another sentence? 😊
